@@ -1,3 +1,4 @@
+- https://linktr.ee/umarali170
 - 👋 Hi, I’m @umarali15
 - 👀 I’m interested in programming.... 
 - 🌱 I’m currently learning how to code ...
@@ -6,7 +7,3 @@
 - 😄 so enjoy the life
 - 🤩   music listner.
 
-<!---
-umarali15/umarali15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
